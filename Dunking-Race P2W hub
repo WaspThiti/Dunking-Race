@@ -1,0 +1,132 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Dunking Race | P2W X HUB", "DarkTheme")
+
+local Tab = Window:NewTab("Teleport")
+local Section = Tab:NewSection("Teleport")
+
+Section:NewButton("Auto farm speed", "", function()
+
+    local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0), 
+{CFrame = CFrame.new(594.59668, 21.3660984, 114.143181, -0.375845134, 1.07944151e-08, 0.926682472, 1.91503027e-08, 1, -3.88144494e-09, -0.926682472, 1.62874283e-08, -0.375845134)}):Play() 
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(592.878906, 21.3660984, 305.499664, -0.944204211, -2.21119603e-08, 0.329360634, -3.59404844e-08, 1, -3.58974148e-08, -0.329360634, -4.57318734e-08, -0.944204211)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(610.596191, 21.3660984, 305.312561, -0.994649589, 5.96591265e-09, -0.103306055, 1.15244054e-08, 1, -5.32092024e-08, 0.103306055, -5.4115052e-08, -0.994649589)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(611.817627, 21.3660984, 116.185921, 0.831994593, -5.15003258e-08, -0.554783702, 7.84019676e-08, 1, 2.47478216e-08, 0.554783702, -6.4086187e-08, 0.831994593)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(629.412292, 21.3661022, 116.722183, -0.0112183196, -3.78832432e-08, -0.999937057, -8.7266848e-08, 1, -3.69065809e-08, 0.999937057, 8.68473222e-08, -0.0112183196)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(622.907959, 21.3660984, 306.959503, -0.998303354, -4.894029e-08, -0.0582270473, -4.73312909e-08, 1, -2.90123623e-08, 0.0582270473, -2.62071769e-08, -0.998303354)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(633.938171, 21.3660984, 307.312408, -0.955181539, -7.75154305e-08, -0.296020627, -8.66045937e-08, 1, 1.75922796e-08, 0.296020627, 4.24405648e-08, -0.955181539)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(635.008545, 21.3660984, 115.048523, 0.999814987, 9.29641217e-08, -0.0192338992, -9.36384836e-08, 1, -3.41605499e-08, 0.0192338992, 3.59552637e-08, 0.999814987)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(645.560852, 21.3660984, 114.964844, 0.782256007, 3.44771571e-08, -0.62295711, -4.50274733e-08, 1, -1.19727905e-09, 0.62295711, 2.89867632e-08, 0.782256007)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(648.316467, 21.3660984, 303.802582, -0.999937654, 1.13930527e-08, -0.0111663556, 1.1898023e-08, 1, -4.51560673e-08, 0.0111663556, -4.52861073e-08, -0.999937654)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(661.187683, 21.3661041, 303.699493, -0.076189734, -1.80279063e-08, -0.99709332, 5.65718805e-09, 1, -1.85127362e-08, 0.99709332, -7.05122538e-09, -0.076189734)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(660.954041, 21.3660984, 116.177071, 0.710822582, 5.80729882e-08, 0.703371346, -9.99779814e-08, 1, 1.84733384e-08, -0.703371346, -8.34529104e-08, 0.710822582)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(676.001465, 21.3661041, 116.116959, 0.0774192661, -4.44434782e-08, -0.996998608, -1.47387968e-08, 1, -4.5721773e-08, 0.996998608, 1.82343065e-08, 0.0774192661)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(676.001465, 21.3661041, 116.116959, 0.0774192661, 1.13016895e-07, -0.996998608, 4.10573158e-08, 1, 1.16545316e-07, 0.996998608, -4.99569417e-08, 0.0774192661)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(677.702148, 21.3660984, 302.486053, -0.999969661, 5.71774805e-09, -0.00778882811, 5.91243543e-09, 1, -2.49726675e-08, 0.00778882811, -2.5017961e-08, -0.999969661)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(687.897827, 21.3660984, 302.521851, -0.144364432, 6.79018513e-08, -0.989524603, -2.68098308e-08, 1, 7.2532039e-08, 0.989524603, 3.7000035e-08, -0.144364432)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(690.863403, 21.3660984, 116.342804, 0.0627745688, -1.53033211e-10, 0.998027742, 5.73426195e-09, 1, -2.07341533e-10, -0.998027742, 5.73596814e-09, 0.0627745688)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(705.589478, 21.3660984, 115.837143, 0.95227766, -3.58684566e-08, -0.305233121, 2.83145685e-09, 1, -1.08677995e-07, 0.305233121, 1.02627368e-07, 0.95227766)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(704.291321, 21.3660984, 302.955841, -0.999828756, -2.46945913e-08, 0.0185040999, -2.29238157e-08, 1, 9.59084616e-08, -0.0185040999, 9.54678541e-08, -0.999828756)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(716.078735, 21.3660984, 302.662781, -0.829013348, -4.85521845e-09, -0.559228778, -1.33278348e-08, 1, 1.10754934e-08, 0.559228778, 1.663504e-08, -0.829013348)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(713.219971, 21.3660984, 115.902977, 0.998281479, 1.00768514e-08, 0.0586012118, -1.33412152e-08, 1, 5.53134853e-08, -0.0586012118, -5.60002391e-08, 0.998281479)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(722.891296, 21.3660984, 115.553925, 0.215805441, 5.89357043e-08, -0.976436377, 4.41850689e-09, 1, 6.13345037e-08, 0.976436377, -1.75507111e-08, 0.215805441)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(725.921387, 21.3660984, 303.063049, -0.999871194, 9.1382395e-09, -0.0160508454, 9.8007229e-09, 1, -4.11954098e-08, 0.0160508454, -4.13474126e-08, -0.999871194)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(731.867554, 21.3660984, 303.137238, -0.495975643, 4.60288119e-09, 0.868336439, -6.87802615e-09, 1, -9.22938881e-09, -0.868336439, -1.05499929e-08, -0.495975643)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(729.05896, 21.3660984, 115.625313, 0.999952674, 1.12241363e-08, 0.00972626265, -1.18275034e-08, 1, 6.19773104e-08, -0.00972626265, -6.20894198e-08, 0.999952674)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(739.645508, 21.3660984, 115.514725, 0.149275497, 7.66108528e-08, -0.988795638, -9.9947739e-09, 1, 7.59700782e-08, 0.988795638, -1.45768253e-09, 0.149275497)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(741.335754, 21.3660984, 302.366211, -0.999998748, 2.05488178e-08, 0.00156960601, 2.04178701e-08, 1, -8.34434175e-08, -0.00156960601, -8.34112655e-08, -0.999998748)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(748.828186, 21.3660984, 302.402588, -0.296396524, -1.1339611e-08, -0.955064952, 2.96277545e-08, 1, -2.10678603e-08, 0.955064952, -3.45408715e-08, -0.296396524)}):Play()
+wait(1)
+local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(749.326233, 21.3660984, 114.869713, 0.0826531053, -3.78049805e-08, -0.996578395, -3.43300641e-08, 1, -4.07820089e-08, 0.996578395, 3.75833586e-08, 0.0826531053)}):Play()
+end)
+
+
+
+Section:NewButton("auto farm", "", function()
+    local TweenService = game:GetService("TweenService")
+local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.Out,0,false,0),
+{CFrame = CFrame.new(1765.2251, 308.766785, 215.087357, -4.37113883e-08, 0, -1, 0, 1, 0, 1, 0, -4.37113883)}):Play()
+end)
